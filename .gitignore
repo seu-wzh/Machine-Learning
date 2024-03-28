@@ -1,0 +1,5 @@
+**/.vscode
+handout/
+experiment/
+**/*.ipynb
+**/report/
